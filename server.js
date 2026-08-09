@@ -26,7 +26,7 @@ const MODEL_MAPPING = {
   'gpt-4': 'meta/llama-3.1-8b-instruct',
   'gpt-4-turbo': 'qwen3-next-80b-a3b-instruct',
   'gpt-4o': 'minimax-m3',
-  'claude-3-opus': 'gpt-oss-120b',
+  'claude-3-opus': 'openai/gpt-oss-20b',
   'claude-3-sonnet': 'llama-3.1-70b-instruct',
   'gemini-pro': 'z-ai/glm-5.2' 
 };
